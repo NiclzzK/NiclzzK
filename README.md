@@ -11,6 +11,7 @@ I am a passionate Fullstack Developer with a background in game and app developm
 ## Current Focus
 - 🌱 Currently learning and working with the latest technologies in Java, NodeJS, and Python
 - 🚀 Exploring new technologies and tools to stay ahead in the tech world
+- ❤️ Currently dedicating my efforts to [NKTD.CLOUD](https://github.com/NKTD-Cloud), where I am fully invested in our innovative projects
 
 ## Collaboration
 - 💞️ Looking to collaborate on future-proof projects that push the boundaries of technology
